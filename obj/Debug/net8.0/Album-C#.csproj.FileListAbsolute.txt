@@ -1,0 +1,17 @@
+G:\Practice-projects\Album-C#\bin\Debug\net8.0\Album-C#.exe
+G:\Practice-projects\Album-C#\bin\Debug\net8.0\Album-C#.deps.json
+G:\Practice-projects\Album-C#\bin\Debug\net8.0\Album-C#.runtimeconfig.json
+G:\Practice-projects\Album-C#\bin\Debug\net8.0\Album-C#.dll
+G:\Practice-projects\Album-C#\bin\Debug\net8.0\Album-C#.pdb
+G:\Practice-projects\Album-C#\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\Practice-projects\Album-C#\obj\Debug\net8.0\Album-C#.csproj.AssemblyReference.cache
+G:\Practice-projects\Album-C#\obj\Debug\net8.0\Album-C#.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice-projects\Album-C#\obj\Debug\net8.0\Album-C#.AssemblyInfoInputs.cache
+G:\Practice-projects\Album-C#\obj\Debug\net8.0\Album-C#.AssemblyInfo.cs
+G:\Practice-projects\Album-C#\obj\Debug\net8.0\Album-C#.csproj.CoreCompileInputs.cache
+G:\Practice-projects\Album-C#\obj\Debug\net8.0\Album-C#.csproj.CopyComplete
+G:\Practice-projects\Album-C#\obj\Debug\net8.0\Album-C#.dll
+G:\Practice-projects\Album-C#\obj\Debug\net8.0\refint\Album-C#.dll
+G:\Practice-projects\Album-C#\obj\Debug\net8.0\Album-C#.pdb
+G:\Practice-projects\Album-C#\obj\Debug\net8.0\Album-C#.genruntimeconfig.cache
+G:\Practice-projects\Album-C#\obj\Debug\net8.0\ref\Album-C#.dll
